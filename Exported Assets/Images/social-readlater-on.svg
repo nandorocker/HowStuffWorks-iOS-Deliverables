@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>social-readlater-on</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="--styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="--exported-assets" sketch:type="MSArtboardGroup" transform="translate(-1339.000000, -647.000000)">
+            <g id="Social-Row" sketch:type="MSLayerGroup" transform="translate(918.000000, 483.000000)">
+                <g id="social-readlater-on" transform="translate(421.000000, 164.000000)" sketch:type="MSShapeGroup">
+                    <path d="M40,0 C17.9075,0 0,17.91 0,40 C0,62.0925 17.9075,80 40,80 C62.0925,80 80,62.0925 80,40 C80,17.91 62.0925,0 40,0 L40,0 Z" id="circle-readlater" fill="#B1A995"></path>
+                    <path d="M67.0295105,23.1569696 C70.1739837,28.0065232 72,33.7901456 72,40 C72,57.1216875 58.1216875,71 41,71 C23.8783125,71 10,57.1216875 10,40 C10,22.88025 23.8783125,9 41,9 C48.6644646,9 55.6789975,11.7814279 61.0896157,16.389779 L59.9564398,18.0528272 C54.8731645,13.6582991 48.2471624,11 41,11 C24.9829375,11 12,23.98475 12,40 C12,56.0170625 24.9829375,69 41,69 C57.0170625,69 70,56.0170625 70,40 C70,34.4938562 68.4653808,29.3459259 65.8004508,24.9607384 L67.0295105,23.1569696 Z" id="Path-6" fill="#FFFFFF"></path>
+                    <path d="M45.7194938,50.6867027 L72.8221236,10.9109007 C74.1544228,8.95561933 73.5737407,6.34148749 71.5244307,5.07310596 C69.4792905,3.80730532 66.7335294,4.36194139 65.4009154,6.31768488 L41.7687123,41.0002907 L33.115109,28.3002682 C31.7846401,26.3476729 29.040618,25.7955889 26.9954778,27.0613895 C24.9461677,28.3297711 24.3662493,30.9450237 25.6939008,32.893484 L37.7523734,50.5904906 C38.4825244,51.6620598 39.6383995,52.3118329 40.8708524,52.4708258 C42.6686827,52.9239858 44.6495605,52.256936 45.7194938,50.6867027 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

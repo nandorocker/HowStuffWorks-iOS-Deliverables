@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="126px" height="126px" viewBox="0 0 126 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>button-play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="--styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="--exported-assets" sketch:type="MSArtboardGroup" transform="translate(-64.000000, -1164.000000)" opacity="0.8">
+            <g id="Feed" sketch:type="MSLayerGroup" transform="translate(64.000000, 627.000000)">
+                <g id="button-play" transform="translate(0.000000, 537.000000)" sketch:type="MSShapeGroup">
+                    <ellipse id="Play-Button-3" fill="#555555" cx="63" cy="63" rx="63" ry="63"></ellipse>
+                    <path d="M48.8714411,89.5483048 L48.8714411,36.4516952 L90.7966934,62.9988214 L48.8714411,89.5483048 L48.8714411,89.5483048 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

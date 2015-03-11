@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="36px" viewBox="0 0 23 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>page-navigation-chevron</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="--styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="--exported-assets" sketch:type="MSArtboardGroup" transform="translate(-933.000000, -843.000000)" fill="#4A90E2">
+            <g id="Global-Modules" sketch:type="MSLayerGroup" transform="translate(918.000000, 784.000000)">
+                <g id="page-navigation-chevron" transform="translate(15.000000, 59.000000)" sketch:type="MSShapeGroup">
+                    <path d="M-2.09175638e-15,4.41445859 L4.53820991,0 L23,17.9583601 L4.53820991,36 L1.23574158e-15,31.5855414 L13.9663874,18 L-2.09175638e-15,4.41445859 Z" id="icon-next-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

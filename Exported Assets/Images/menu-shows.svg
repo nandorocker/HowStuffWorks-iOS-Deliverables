@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>menu-shows</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="--styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="--exported-assets" sketch:type="MSArtboardGroup" transform="translate(-356.000000, -471.000000)" fill="#FFFFFF">
+            <g id="Question-Mark-Navigation" sketch:type="MSLayerGroup" transform="translate(59.000000, 393.000000)">
+                <g id="menu-shows" transform="translate(297.000000, 78.500000)" sketch:type="MSShapeGroup">
+                    <path d="M5.9952583,0 C2.68416857,0 0,2.69118038 0,5.9952583 L0,36.0047417 C0,39.3158314 2.69118038,42 5.9952583,42 L36.0047417,42 C39.3158314,42 42,39.3088196 42,36.0047417 L42,5.9952583 C42,2.68416857 39.3088196,0 36.0047417,0 L5.9952583,0 Z M28.5675232,20.2582171 L18.5954582,13.8315186 C18.0038638,13.512887 17.3261813,13.5459575 17.3261813,14.6897765 L17.3261813,27.3447507 C17.3261813,28.3904081 18.0532071,28.5552357 18.5954582,28.2030087 L28.5675232,21.7763101 C28.9780173,21.3568923 28.9780173,20.677635 28.5675232,20.2582171 Z" id="Rectangle-102"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

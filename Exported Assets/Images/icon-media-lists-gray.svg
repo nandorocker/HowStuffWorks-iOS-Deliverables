@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="59px" viewBox="0 0 58 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-media-lists-gray</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="--styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="--exported-assets" sketch:type="MSArtboardGroup" transform="translate(-280.000000, -278.000000)">
+            <g id="Media-Type-Identifiers" sketch:type="MSLayerGroup" transform="translate(65.000000, 226.000000)">
+                <g id="icon-media-lists-gray" transform="translate(219.000000, 54.500000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval" opacity="0.949999928" fill="#222222" filter="url(#filter-1)" cx="25" cy="25" r="25"></circle>
+                    <path d="M14.905145,23.7712512 C13.7423437,23.7712512 12.7970934,24.6770476 12.7970934,25.7913145 C12.7970934,26.9080055 13.7423437,27.8113778 14.905145,27.8113778 C16.0679462,27.8113778 17.0131965,26.9080055 17.0131965,25.7913145 C17.0131965,24.6770476 16.0679462,23.7712512 14.905145,23.7712512 Z M14.905145,31.043479 C13.7423437,31.043479 12.7970934,31.9492754 12.7970934,33.0635423 C12.7970934,34.1802333 13.7423437,35.0836056 14.905145,35.0836056 C16.0679462,35.0836056 17.0131965,34.1802333 17.0131965,33.0635423 C17.0131965,31.9492754 16.0679462,31.043479 14.905145,31.043479 Z M19.5428583,19.6960326 L35.5640498,19.6960326 L35.5640498,18.1158821 L19.5428583,18.1158821 L19.5428583,19.6960326 Z M19.5428583,26.9682604 L35.5640498,26.9682604 L35.5640498,25.3881099 L19.5428583,25.3881099 L19.5428583,26.9682604 Z M19.5428583,34.2412619 L35.5640498,34.2412619 L35.5640498,32.6595296 L19.5428583,32.6595296 L19.5428583,34.2412619 Z M14.905145,16.4990234 C13.7423437,16.4990234 12.7970934,17.4048198 12.7970934,18.5190867 C12.7970934,19.6357777 13.7423437,20.53915 14.905145,20.53915 C16.0679462,20.53915 17.0131965,19.6357777 17.0131965,18.5190867 C17.0131965,17.4048198 16.0679462,16.4990234 14.905145,16.4990234 Z" id="Fill-1902" opacity="0.9" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

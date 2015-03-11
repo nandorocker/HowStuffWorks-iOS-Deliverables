@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="640px" height="18px" viewBox="0 0 640 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>shark-teeth</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.66133815e-16,45.5730354 L16.2432467,60.3158293 L34.7992108,43.475295 L53.3541891,60.3153031 L71.8589911,43.5225393 L90.3595792,60.3163556 L108.914557,43.475295 L127.469043,60.3158293 L146.025007,43.475295 L164.579985,60.3153031 L183.137428,43.4747687 L198.502638,57.4187312 L201.653231,60.2227011 L220.208209,43.3816406 L238.762694,60.2221749 L257.318658,43.3816406 L275.873637,60.2216486 L294.431079,43.3811143 L309.796289,57.3250767 L313.024406,60.2333877 L331.579384,43.3923272 L350.13387,60.2328615 L368.689834,43.3923272 L387.244812,60.2323352 L405.691396,43.4924032 L424.133783,60.2333877 L442.688761,43.3923272 L461.243247,60.2328615 L479.799211,43.3923272 L498.354189,60.2323352 L516.858991,43.4395715 L535.359579,60.2333877 L553.914557,43.3923272 L572.469043,60.2328615 L591.025007,43.3923272 L609.579985,60.2323352 L628.137428,43.3918009 L640,54.1571115 L640,0 L0,0 L0,45.5730354 L6.66133815e-16,45.5730354 Z M0,0 L640,0 L640,60.3163556 L0,60.3163556 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="--styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="--exported-assets" sketch:type="MSArtboardGroup" transform="translate(-64.000000, -1097.000000)">
+            <g id="Feed" sketch:type="MSLayerGroup" transform="translate(64.000000, 627.000000)">
+                <g id="shark-teeth" transform="translate(0.000000, 427.500000)">
+                    <mask id="mask-2" sketch:name="shark-teeth" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use fill="#FCFCFC" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

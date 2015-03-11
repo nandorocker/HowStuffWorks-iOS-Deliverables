@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="41px" viewBox="0 0 40 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>header-loupe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="--styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="--exported-assets" sketch:type="MSArtboardGroup" transform="translate(-577.000000, -118.000000)" fill="#4A90E2">
+            <g id="Header-Navigation" sketch:type="MSLayerGroup" transform="translate(65.000000, 65.000000)">
+                <g id="header-loupe" transform="translate(512.000000, 53.000000)" sketch:type="MSShapeGroup">
+                    <path d="M39.6202146,38.1883948 L29.2938023,28.022718 C31.9969992,25.0842998 33.6586776,21.2080885 33.6586776,16.9317521 C33.6586776,7.77889184 26.1242352,0.364074707 16.8293388,0.364074707 C7.53444247,0.364074707 0,7.77889184 0,16.9317521 C0,26.0721085 7.53444247,33.4869256 16.8293388,33.4869256 C20.8453742,33.4869256 24.5288238,32.0989919 27.4220698,29.785769 L37.7897427,39.9889575 C38.2961232,40.4891138 39.1150844,40.4891138 39.6202146,39.9889575 C40.1265951,39.5013051 40.1265951,38.6885511 39.6202146,38.1883948 Z M16.8181818,30.0330977 C24.098299,30.0330977 30,24.1313967 30,16.8512795 C30,9.57116236 24.098299,3.66946134 16.8181818,3.66946134 C9.53806466,3.66946134 3.63636364,9.57116236 3.63636364,16.8512795 C3.63636364,24.1313967 9.53806466,30.0330977 16.8181818,30.0330977 Z" id="Loupe-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

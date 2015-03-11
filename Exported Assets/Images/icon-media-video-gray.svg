@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-media-video-gray</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="--styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="--exported-assets" sketch:type="MSArtboardGroup" transform="translate(-352.000000, -278.000000)">
+            <g id="Media-Type-Identifiers" sketch:type="MSLayerGroup" transform="translate(65.000000, 226.000000)">
+                <g id="icon-media-video-gray" transform="translate(291.000000, 54.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-2" opacity="0.949999928" fill="#222222" filter="url(#filter-1)" cx="25" cy="25.0003375" r="25"></circle>
+                    <path d="M33.8961679,29.1734774 L33.1885834,29.6238209 L33.1885834,29.5951473 L23.7213039,35.3990121 C23.0220637,35.8695957 22.1142195,36.1495846 21.2931545,36.1495846 C19.4407519,36.1495846 17.9287908,34.7125335 17.9287908,32.9448932 L17.9287908,19.1107464 C17.9287908,17.3447928 19.4407519,15.9094284 21.2931545,15.9094284 C22.1008688,15.9094284 22.9436286,16.1742371 23.7296481,16.6768677 L33.9312133,22.8771022 C35.4949082,23.7659824 36.2859342,24.8252172 36.2859342,26.0295065 C36.2859342,27.6706458 34.73559,28.6472334 33.8961679,29.1734774" id="Path" opacity="0.9" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
